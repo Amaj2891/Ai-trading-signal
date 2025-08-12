@@ -36,8 +36,8 @@ try:
 except Exception:
     pass
 
-BINANCE_API_KEY = os.getenv("BINANCE_API_KEY", "")
-BINANCE_SECRET = os.getenv("BINANCE_SECRET", "")
+BINANCE_API_KEY = os.getenv("5ROkMdWucL9jk7d5FtBpVnq39AQH6goRW6glt21XRB9LoKh4s1m4TU4jn1sn6qtq", "")
+BINANCE_SECRET = os.getenv("NiHnMivXGmPGGOvOjZp3aIrBmvfRNeYIrtglEQpcFJEkHnwexI6P5I6Kc4lE4Eg8", "")
 OANDA_TOKEN = os.getenv("OANDA_TOKEN", "")
 OANDA_ACCOUNT_ID = os.getenv("OANDA_ACCOUNT_ID", "")
 
