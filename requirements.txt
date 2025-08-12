@@ -1,0 +1,8 @@
+streamlit
+ccxt
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+ta
